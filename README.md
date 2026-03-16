@@ -1,4 +1,4 @@
-# Olá, eu sou o Rodolfo!
+# Olá, sou Rodolfo!
 
 🎓 **Estudante de Desenvolvimento de Sistemas**, aprofundando fundamentos de computação, arquitetura de software e engenharia de código.
 🎯 **Focado em Python, R, C, HTML e CSS**, explorando desde programação de baixo nível até análise de dados e desenvolvimento web.    
