@@ -1,8 +1,11 @@
 # Olá, sou Rodolfo!
 
 🎓 **Estudante de Desenvolvimento de Sistemas**, aprofundando fundamentos de computação, arquitetura de software e engenharia de código.
-🎯 **Focado em Python, R, C, HTML e CSS**, explorando desde programação de baixo nível até análise de dados e desenvolvimento web.    
+
+🎯 **Focado em Python, R, C, HTML e CSS**, explorando desde programação de baixo nível até análise de dados e desenvolvimento web.
+
 🚀 **Preparando-me para o mercado tech**, com foco em boas práticas, versionamento, estruturas de dados e resolução de problemas.
+
 
 ✨ *“Dominar a tecnologia é consequência; dominar os fundamentos é o que transforma um desenvolvedor.”*
 
