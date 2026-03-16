@@ -5,6 +5,11 @@
 - Contato: rodolfo.augusto.aguiar@hotmail.com.br
 
 
-# Tecnologias que estudo:
+# Tecnologias que estudo
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+# Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-augusto-aguiar-086b373b1/)]
