@@ -6,12 +6,18 @@
 
 🚀 **Preparando-me para o mercado tech**, com foco em boas práticas, versionamento, estruturas de dados e resolução de problemas.
 
-
 ✨ *“Dominar a tecnologia é consequência; dominar os fundamentos é o que transforma um desenvolvedor.”*
+
+
+<div>
+  <a href="https://github.com/RodolfoAugustoAguiar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoAugustoAguiar&commits_year=2026&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoAugustoAguiar&compact&langs_count=16"/>
+</div>
 
 ---
 ## Ferramentas e Linguagens
-
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -20,6 +26,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+<div style="display: inline_block"><br>
+  <img align="center" alt=Rodolfo-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" alt=Rodolfo-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img align="center" alt=Rodolfo-R" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+  <img align="center" alt=Rodolfo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt=Rodolfo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
 ---
 ## Canais de Contato
