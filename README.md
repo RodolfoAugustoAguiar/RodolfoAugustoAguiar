@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/RodolfoAugustoAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoAugustoAguiar&commits_year=2026&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoAugustoAguiar&compact&langs_count=16"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodolfoAugustoAguiar&commits_year=2026&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoAugustoAguiar&compact&langs_count=16"/>
 </div>
 
 ---
